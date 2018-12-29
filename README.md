@@ -1,1 +1,1 @@
-# Deployer PHP magento1 recipes
+# Deployer PHP Magento1 recipes
