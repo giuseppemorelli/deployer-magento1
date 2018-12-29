@@ -1,0 +1,12 @@
+{
+  "name": "gmdotnet/deployer-magento1",
+  "description": "Deployer Magento 1 recipes",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Giuseppe Morelli",
+      "email": "info@giuseppemorelli.net"
+    }
+  ]
+}
